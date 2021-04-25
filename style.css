@@ -129,9 +129,9 @@ header .hero-image img {
   z-index: 100;
 }
 
-header .hero-image img:hover {
+/* header .hero-image img:hover {
   transform: rotate(-6deg);
-}
+} */
 
 /* header .hero-image .photo-bg {
   position: absolute;
@@ -146,7 +146,7 @@ header .hero-image img:hover {
 
 /* Search Box */
 
-.search-box {
+/* .search-box {
   width: 1200px;
   margin: 0 auto;
   text-align: right;
@@ -174,7 +174,7 @@ header .hero-image img:hover {
 
 .search-box input::placeholder {
   color: #b3b3b3;
-}
+} */
 
 
 
